@@ -1,0 +1,44 @@
+<svg width="860" height="220" viewBox="0 0 860 220" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>Building backends. One commit at a time.</title>
+  <desc>LemonPotion — Junior .NET Backend Developer profile header</desc>
+  
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400;1,500&amp;family=Inter:wght@300;400&amp;display=swap');
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="860" height="220" fill="#161618"/>
+  
+  <!-- Main title line 1 -->
+  <text 
+    x="430" y="90"
+    font-family="'Playfair Display', Georgia, serif"
+    font-size="52"
+    font-weight="400"
+    fill="#e8e0d5"
+    text-anchor="middle"
+    letter-spacing="-0.5">Building backends.</text>
+
+  <!-- Main title line 2 — italic accent -->
+  <text 
+    x="430" y="150"
+    font-family="'Playfair Display', Georgia, serif"
+    font-size="52"
+    font-weight="400"
+    font-style="italic"
+    fill="#cf6a45"
+    text-anchor="middle"
+    letter-spacing="-0.5">One commit at a time.</text>
+
+  <!-- Subtitle -->
+  <text
+    x="430" y="194"
+    font-family="'Inter', system-ui, sans-serif"
+    font-size="14"
+    font-weight="300"
+    fill="#6e6a65"
+    text-anchor="middle"
+    letter-spacing="2">JUNIOR .NET BACKEND DEVELOPER  ·  TIRASPOL, PMR</text>
+</svg>
