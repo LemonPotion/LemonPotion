@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/LemonPotion/LemonPotion/refs/heads/master/header.svg" width="860" alt="Building backends. One commit at a time."/>
-</div>
-<div align="center">
+<br/>
 <img src="https://img.shields.io/badge/C%23-e8e0d5?style=flat-square&logo=csharp&logoColor=161618" alt="C#"/>
 <img src="https://img.shields.io/badge/.NET-e8e0d5?style=flat-square&logo=dotnet&logoColor=161618" alt=".NET"/>
 <img src="https://img.shields.io/badge/ASP.NET_Core-e8e0d5?style=flat-square&logo=dotnet&logoColor=161618" alt="ASP.NET Core"/>
@@ -11,7 +10,7 @@
 <img src="https://img.shields.io/badge/GitHub-e8e0d5?style=flat-square&logo=github&logoColor=161618" alt="GitHub"/>
 <img src="https://img.shields.io/badge/GitLab-e8e0d5?style=flat-square&logo=gitlab&logoColor=161618" alt="GitLab"/>
 <img src="https://img.shields.io/badge/Git-e8e0d5?style=flat-square&logo=git&logoColor=161618" alt="Git"/>
-<div/>
+</div>
 
 
 
