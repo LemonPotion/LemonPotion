@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=e8d5f5&height=140&text=LemonPotion&fontColor=6b4fa0&fontSize=48&desc=.NET%20Backend%20Developer&descColor=9b7fc4&descSize=20&animation=fadeIn" />
-</p>
-
 <br/>
 
 <p align="center">
