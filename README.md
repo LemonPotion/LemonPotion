@@ -55,7 +55,3 @@ var me = new Developer
 <br/>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=e8d5f5&height=60&section=footer&fontColor=6b4fa0" />
-</p>
